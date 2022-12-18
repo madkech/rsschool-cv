@@ -1,1 +1,1 @@
-#rsschool-cv
+https://madkech.github.io/rsschool-cv/
